@@ -13,6 +13,9 @@ public class Tracker {
 
     public void add(TimeEntry entry) {
         entries.add(entry);
+        {
+            //noop
+        }
     }
 
     public void remove(TimeEntry entry) {
