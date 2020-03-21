@@ -15,5 +15,8 @@
   <p>
     This is a very simple example web page on a JSP.
   </p>
+  <p>
+    This webapp has been deployed using (if it works the way I think) a network bridge between docker containers. Cool stuff.
+  </p>
 </body>
 </html>
